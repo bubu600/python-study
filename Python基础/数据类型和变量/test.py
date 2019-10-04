@@ -27,7 +27,7 @@ line3''')
 print(r'''hello,\n
 world''')
 
-a = 123 # a是证书
+a = 123 # a是整数
 print(a)
 
 a = 'ABC' # a变为字符串
