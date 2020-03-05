@@ -1,0 +1,16 @@
+if 判读语句
+if  xxx:
+    pass
+else:
+    pass
+语句的冒号不要丢
+
+if xxx:
+    pass
+elif xxx:
+    pass
+else:
+    pass
+if 语句执行有个特点，它是从上往下判读，如果在某个判读上是True,会执行当前语句，后面的elif else不会再执行
+
+input返回的数据类型是str，再做判读是一定要注意

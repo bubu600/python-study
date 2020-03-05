@@ -1,0 +1,13 @@
+list
+list追加命令 listname.append('xxx')
+list插入命令  listname.insert(1,'xxx')
+list删除末尾元素，listname.pop()
+list删除指定位置元素，listname.pop(1)
+list排序，listname.sort()
+list替换：listname.replace('xx','yy')
+
+tuple
+空tuple定义 t = ()
+一个元素tuple定义 t = (1,)  切记带上一个点
+
+list和tuple是Python内置的有序集合，一个可变，一个不可变。根据需要来选择使用它们。
